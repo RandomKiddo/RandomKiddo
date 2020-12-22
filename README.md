@@ -11,7 +11,7 @@ src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/java.jpg" />
 src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/python.png" />
 <img align="left" alt="C" width="30px" height="26px" 
 src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/c.png" />
-<img align="left" alt="C++" width="70px" height="26px" 
+<img align="left" alt="C++" width="35px" height="26px" 
 src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/c++.png" />
 <img align="left" alt="Fortran" width="30px" height="26px" 
 src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/fortran.png" />
