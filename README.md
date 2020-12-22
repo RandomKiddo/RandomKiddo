@@ -6,13 +6,11 @@
 ### Main Languages:
 
 <img align="left" alt="Java" width="26px" height="26px" 
-src="https://www.github.com/randomkiddo/randomkiddo/Images/java.jpg" />
+src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/java.jpg" />
 
 ### Tools:
 
 ### Other Languages:
-
-<img align="left" alt="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 ---
