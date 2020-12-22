@@ -11,11 +11,11 @@ firsttry
 
 ### Main Languages:
 
-![Java](java.jpg)
-<img align="left" alt="Python" width="26px" height="26px" src="python.png"/>
-<img align="left" alt="C" width="26px" height="26px" src="c.png"/>
-<img align="left" alt="C++" width="26px" height="26px" src="c++.png"/>
-<img align="left" alt="Fortran" width="26px" height="26px" src="fortran.png"/>
+<img align="left" alt="Java" width="26px" height="26px" src="Images/java.jpg"/>
+<img align="left" alt="Python" width="26px" height="26px" src="Images/python.png"/>
+<img align="left" alt="C" width="26px" height="26px" src="Images/c.png"/>
+<img align="left" alt="C++" width="26px" height="26px" src="Images/c++.png"/>
+<img align="left" alt="Fortran" width="26px" height="26px" src="Images/fortran.png"/>
 
 ### Tools:
 
