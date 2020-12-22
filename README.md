@@ -7,6 +7,16 @@
 
 <img align="left" alt="Java" width="30px" height="26px" 
 src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/java.jpg" />
+<img align="left" alt="Python" width="30px" height="26px" 
+src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/python.png" />
+<img align="left" alt="" width="30px" height="26px" 
+src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/" />
+<img align="left" alt="C" width="30px" height="26px" 
+src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/c.png" />
+<img align="left" alt="C++" width="30px" height="26px" 
+src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/c++.png" />
+<img align="left" alt="Fortran" width="30px" height="26px" 
+src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/fortran.png" />
 
 <br />
 
