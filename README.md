@@ -12,7 +12,7 @@ firsttry
 ### Main Languages:
 
 <img align="left" alt="Java" width="26px" height="26px" src="Images/java.jpg"/>
-![Test](Images/java.jpg)
+![Test]("Images/java.jpg")
 <img align="left" alt="Python" width="26px" height="26px" src="Images/python.png"/>
 <img align="left" alt="C" width="26px" height="26px" src="Images/c.png"/>
 <img align="left" alt="C++" width="26px" height="26px" src="Images/c++.png"/>
