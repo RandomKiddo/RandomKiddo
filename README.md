@@ -5,13 +5,18 @@
 
 ### Main Languages:
 
-<img align="left" alt="Java" width="26px" height="26px" 
+<img align="left" alt="Java" width="30px" height="26px" 
 src="https://github.com/RandomKiddo/RandomKiddo/blob/main/Images/java.jpg" />
+
+<br />
 
 ### Tools:
 
+<br />
+
 ### Other Languages:
 
+<br />
 
 ---
 
