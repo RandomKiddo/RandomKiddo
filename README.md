@@ -1,14 +1,14 @@
-### Hi there, I'm Neil!
+### Hi there, I'm RandomKiddo!
 
 ### Main Languages:
 
 I know these languages very well!
 
-Java
-Python
-Fortran
-C
-C++
+- Java
+- Python3
+- Fortran
+- C
+- C++
 
 <br />
 
@@ -16,19 +16,20 @@ C++
 
 The stuff that lets me do stuff!
 
-VSCode (Python, Fortran, C, C++)
-BlueJ (Java)
-Eclipse (Advanced Java)
-Terminal
-Brackets (HTML, CSS, Javascript, Website Development)
+- VSCode (Python, Fortran, C, C++)
+- BlueJ (Java)
+- Eclipse (Advanced Java)
+- Terminal
+- Brackets (HTML, CSS, Javascript, Website Development)
 
 <br />
 
 ### Other Languages:
 
-I know these fairly well but I either don't use them often, or I don't use them anymore!
+I know these fairly well but I either don't use them often, or I don't use them anymore! (I wouldn't ask me for help on these)
 
-HTML & CSS
-Javascript
-Swift
-C#
+- HTML5
+- CSS3
+- Javascript
+- Swift
+- C#
