@@ -10,8 +10,6 @@ I know these languages very well!
 - C
 - C++
 
-<br />
-
 ### Tools:
 
 The stuff that lets me do stuff!
@@ -21,8 +19,6 @@ The stuff that lets me do stuff!
 - Eclipse (Advanced Java)
 - Terminal
 - Brackets (HTML, CSS, Javascript, Website Development)
-
-<br />
 
 ### Other Languages:
 
