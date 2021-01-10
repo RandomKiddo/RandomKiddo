@@ -36,10 +36,10 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 ### My Main Repositories:
 
-englishtoolkit -> An unfinished natural language processing package for Java
-influence -> A Python3 PYPI package that just adds nice features to Python3
-java -> Just some of my Java projects I did for fun
-youtubeplugins -> Minecraft plugins I made for my YouTube channel (links below)
+englishtoolkit -> An unfinished natural language processing package for Java <br />
+influence -> A Python3 PYPI package that just adds nice features to Python3 <br />
+java -> Just some of my Java projects I did for fun <br />
+youtubeplugins -> Minecraft plugins I made for my YouTube channel (links below) <br />
 
 ### Links:
 
