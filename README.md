@@ -44,6 +44,7 @@ influence -> A Python3 PYPI package that just adds nice features to Python3 <br 
 java -> Just some of my Java projects I did for fun <br />
 youtubeplugins -> Minecraft plugins I made for my YouTube channel (links below) <br />
 fortran -> Just some of my Fortran projects I did for fun <br />
+license-chooser -> Helps people choose a license for their own repositories <br />
 
 ### Links:
 
