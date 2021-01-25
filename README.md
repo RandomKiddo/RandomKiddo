@@ -1,5 +1,8 @@
 ### Hi there, I'm RandomKiddo!
 
+![](https://visitor-badge.laobi.icu/badge?page_id=RandomKiddo.RandomKiddo)
+[![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
+
 ### About Me (Not Programming Related):
 
 Besides coding, I love multiple things like playing tennis, learning about physics and the universe (stars, black holes, etc). I like math and science
