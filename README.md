@@ -54,4 +54,4 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo)
 
-<sub>Last Edited On 01/12/21 at 9:44AM</sub>
+<sub>Last Edited On 01/25/21 at 2:29PM</sub>
