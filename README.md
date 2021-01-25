@@ -52,4 +52,6 @@ I know these fairly well but I either don't use them often, or I don't use them 
 - [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
 - [Twitch](https://www.twitch.tv/notfirsttry)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&theme=tokyonight)
+
 <sub>Last Edited On 01/12/21 at 9:44AM</sub>
