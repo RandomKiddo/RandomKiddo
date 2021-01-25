@@ -9,7 +9,7 @@
 - Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography
 - Activities: Tennis, Guitar, Jazz Band
 - Subjects: Math, Science, Programming, Physics, Astrophysics
-- :us: <img src="https://github.com/RandomKiddo/RandomKiddo/blob/main/ohio-flag-icon-16.png" />
+- :us: <img src="https://github.com/RandomKiddo/RandomKiddo/blob/main/ohio-flag-icon-256.png" />
 
 ### Main Languages:
 
