@@ -58,7 +58,6 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 ### Stats: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomKiddo&show_icons=true&theme=vue) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&theme=vue)
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
 
-<sub>Last Edited On 01/25/21 at 4:38PM</sub>
+<sub>Last Edited On 01/25/21 at 4:41PM</sub>
