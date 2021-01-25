@@ -1,4 +1,4 @@
-### Hi there, I'm RandomKiddo!
+# Hi there, I'm RandomKiddo!
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RandomKiddo.RandomKiddo)
 [![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
