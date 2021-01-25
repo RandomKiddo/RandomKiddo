@@ -5,10 +5,11 @@
 
 ### About Me (Not Programming Related):
 
-Besides coding, I love multiple things like playing tennis, learning about physics and the universe (stars, black holes, etc). I like math and science
-a lot (you probably could have guessed that). I also love playing video games too, including but not limited to, Minecraft, Stardew Valley, Rocket League,
-any Mario game, and Bloons Tower Defense! I also enjoy partaking in social activities, and love to photograph animals and landscapes. There is so much more
-to know about me, but I'm not writing an autobiography here, so I'm just going to stop here.
+- Pronouns: he/him
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography
+- Activities: Tennis, Guitar, Jazz Band
+- Subjects: Math, Science, Programming, Physics, Astrophysics
+- :us: 
 
 ### Main Languages:
 
