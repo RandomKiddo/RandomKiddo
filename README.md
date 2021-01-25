@@ -42,12 +42,13 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 ### My Repositories:
 
-![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
-[influence](https://github.com/randomkiddo/influence) -> A Python3 PYPI package that just adds nice features to Python3 <br />
-[java](https://github.com/randomkiddo/java) -> Just some of my Java projects I did for fun <br />
-[youtubeplugins](https://github.com/randomkiddo/youtubeplugins) -> Minecraft plugins I made for my YouTube channel (links below) <br />
-[fortran](https://github.com/randomkiddo/fortran) -> Just some of my Fortran projects I did for fun <br />
-[RandomKiddo.github.io](https://github.com/randomkiddo/RandomKiddo.github.io) -> My Github pages website (it's not that good, just for experimenting) <br />
+[![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
+[![influence](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=influence&theme=vue)](https://github.com/RandomKiddo/influence)
+[![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
+[![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
+[![fortran](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=fortran&theme=vue)](https://github.com/RandomKiddo/fortran)
+[![RandomKiddo](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo&theme=vue)](https://github.com/RandomKiddo/RandomKiddo)
+[![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 
 ### Links:
 
