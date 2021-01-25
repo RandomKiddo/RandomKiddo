@@ -56,7 +56,9 @@ I know these fairly well but I either don't use them often, or I don't use them 
 - [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
 - [Twitch](https://www.twitch.tv/notfirsttry)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomKiddo&show_icons=true&theme=vue) <br /> <br />
+### Stats: 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomKiddo&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&theme=vue)
 
 <sub>Last Edited On 01/25/21 at 2:32PM</sub>
