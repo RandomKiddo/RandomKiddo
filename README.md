@@ -58,4 +58,4 @@ I know these fairly well but I either don't use them often, or I don't use them 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomKiddo&show_icons=true) <br /> <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo)
 
-<sub>Last Edited On 01/25/21 at 2:29PM</sub>
+<sub>Last Edited On 01/25/21 at 2:32PM</sub>
