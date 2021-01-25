@@ -40,9 +40,9 @@ I know these fairly well but I either don't use them often, or I don't use them 
 - Swift
 - C#
 
-### My Main Repositories:
+### My Repositories:
 
-[englishtoolkit](https://github.com/randomkiddo/englishtoolkit) -> An unfinished natural language processing package for Java <br />
+![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
 [influence](https://github.com/randomkiddo/influence) -> A Python3 PYPI package that just adds nice features to Python3 <br />
 [java](https://github.com/randomkiddo/java) -> Just some of my Java projects I did for fun <br />
 [youtubeplugins](https://github.com/randomkiddo/youtubeplugins) -> Minecraft plugins I made for my YouTube channel (links below) <br />
