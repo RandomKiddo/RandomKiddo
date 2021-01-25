@@ -44,7 +44,7 @@ I know these fairly well but I either don't use them often, or I don't use them 
 [java](https://github.com/randomkiddo/java) -> Just some of my Java projects I did for fun <br />
 [youtubeplugins](https://github.com/randomkiddo/youtubeplugins) -> Minecraft plugins I made for my YouTube channel (links below) <br />
 [fortran](https://github.com/randomkiddo/fortran) -> Just some of my Fortran projects I did for fun <br />
-[license-chooser](https://github.com/randomkiddo/license-chooser) -> Helps people choose a license for their own repositories <br />
+[RandomKiddo.github.io](https://github.com/randomkiddo/RandomKiddo.github.io) -> My Github pages website (it's not that good, just for experimenting) <br />
 
 ### Links:
 
