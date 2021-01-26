@@ -55,6 +55,7 @@ I know these fairly well but I either don't use them often, or I don't use them 
 - [YouTube](https://www.youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
 - [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
 - [Twitch](https://www.twitch.tv/notfirsttry)
+- [Discord](https://discord.com/invite/Hg6aaqkzBy)
 
 ### Stats: 
 
