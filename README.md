@@ -42,7 +42,6 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 ### My Repositories:
 
-[![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
 [![influence](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=influence&theme=vue)](https://github.com/RandomKiddo/influence)
 [![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
