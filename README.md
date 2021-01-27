@@ -49,6 +49,7 @@ I know these fairly well but I either don't use them often, or I don't use them 
 [![RandomKiddo](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo&theme=vue)](https://github.com/RandomKiddo/RandomKiddo)
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
+[![pokergame](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=pokergame&theme=vue)](https://github.com/RandomKiddo/pokergame)
 
 ### Links:
 
