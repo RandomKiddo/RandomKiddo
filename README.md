@@ -6,8 +6,8 @@
 ### About Me (Not Programming Related):
 
 - Pronouns: he/him
-- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography
-- Activities: Tennis, Guitar, Jazz Band
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography, YouTube
+- Activities: Tennis, Guitar, Bass Guitar, Jazz Band
 - Subjects: Math, Science, Programming, Physics, Astrophysics
 
 ### Main Languages:
@@ -62,4 +62,4 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
 
-<sub>Last Edited On 01/25/21 at 10:13PM</sub>
+<sub>Last Edited On 01/27/21 at 10:16AM</sub>
