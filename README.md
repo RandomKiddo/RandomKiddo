@@ -51,6 +51,10 @@ I know these fairly well but I either don't use them often, or I don't use them 
 [![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
 [![pokergame](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=pokergame&theme=vue)](https://github.com/RandomKiddo/pokergame)
 
+### Contributed On:
+
+[![C# Learning](https://github-readme-stats.vercel.app/api/pin/?username=ProNanigans&repo=C_Sharp-Learning&theme=vue)](https://github.com/ProNanigans/C_Sharp-Learning)
+
 ### Links:
 
 - [YouTube](https://www.youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
