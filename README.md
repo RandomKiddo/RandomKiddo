@@ -50,7 +50,7 @@ The stuff that lets me do stuff!
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
 [![pokergame](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=pokergame&theme=vue)](https://github.com/RandomKiddo/pokergame)
-[![chess](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=chess&theme=vue)](https://github.com/RandomKiddo/chess)
+[![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
 
 ### Contributed Repositories:
 
@@ -69,4 +69,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/02/21 at 7:27PM</sub>
+<sub>Last Edited On 02/02/21 at 10:18PM</sub>
