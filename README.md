@@ -20,16 +20,6 @@ I know these languages very well!
 - C
 - C++
 
-### Tools:
-
-The stuff that lets me do stuff!
-
-- VSCode (Python, Fortran, C, C++)
-- BlueJ (Java)
-- Eclipse (Advanced Java)
-- Terminal
-- Brackets (HTML, CSS, Javascript, Website Development)
-
 ### Other Languages:
 
 I know these fairly well but I either don't use them often, or I don't use them anymore! (I wouldn't ask me for help on these)
@@ -39,6 +29,16 @@ I know these fairly well but I either don't use them often, or I don't use them 
 - Javascript
 - Swift
 - C#
+
+### Tools:
+
+The stuff that lets me do stuff!
+
+- VSCode (Python, Fortran, C, C++) - [Link](https://code.visualstudio.com)
+- BlueJ (Java) - [Link](https://bluej.org)
+- Eclipse (Advanced Java) - [Link](https://www.eclipse.org)
+- MacOS Terminal
+- Brackets (HTML, CSS, Javascript, Website Development) - [Link](http://brackets.io)
 
 ### My Repositories:
 
@@ -50,6 +50,7 @@ I know these fairly well but I either don't use them often, or I don't use them 
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
 [![pokergame](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=pokergame&theme=vue)](https://github.com/RandomKiddo/pokergame)
+[![chess](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=chess&theme=vue)](https://github.com/RandomKiddo/chess)
 
 ### Contributed Repositories:
 
@@ -68,4 +69,4 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 01/28/21 at 8:28PM</sub>
+<sub>Last Edited On 02/02/21 at 7:27PM</sub>
