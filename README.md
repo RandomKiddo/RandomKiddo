@@ -45,7 +45,6 @@ The stuff that lets me do stuff!
 [![influence](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=influence&theme=vue)](https://github.com/RandomKiddo/influence)
 [![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
-[![fortran](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=fortran&theme=vue)](https://github.com/RandomKiddo/fortran)
 [![RandomKiddo](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo&theme=vue)](https://github.com/RandomKiddo/RandomKiddo)
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![englishtoolkit](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=englishtoolkit&theme=vue)](https://github.com/RandomKiddo/englishtoolkit)
@@ -69,4 +68,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/02/21 at 10:18PM</sub>
+<sub>Last Edited On 02/04/21 at 9:14PM</sub>
