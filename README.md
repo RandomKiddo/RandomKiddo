@@ -64,7 +64,7 @@ The stuff that lets me do stuff!
 
 ### Stats: 
 
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV -->
 
 <b>[Back to Top](#)</b>
 
