@@ -26,7 +26,8 @@ I know these fairly well but I either don't use them often, or I don't use them 
 
 - HTML5
 - CSS3
-- Javascript
+- Javascripy
+- XML & JSON
 - Swift
 - C#
 
@@ -68,4 +69,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/04/21 at 9:14PM</sub>
+<sub>Last Edited On 02/09/21 at 2:17PM</sub>
