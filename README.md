@@ -19,6 +19,7 @@ I know these languages very well!
 - Fortran95
 - C
 - C++
+- JSON
 
 ### Other Languages:
 
@@ -27,8 +28,9 @@ I know these fairly well but I either don't use them often, or I don't use them 
 - HTML5
 - CSS3
 - Javascript
-- XML & JSON
+- XML
 - Swift
+- Go 
 - C#
 
 ### Tools:
@@ -69,4 +71,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/09/21 at 9:11PM</sub>
+<sub>Last Edited On 02/15/21 at 10:01PM</sub>
