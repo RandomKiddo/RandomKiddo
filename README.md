@@ -12,7 +12,7 @@
 
 ### Main Languages:
 
-I know these languages very well!
+I know these languages very well! I'm either fluent or mostly fluent in these! I mainly do projects in these languages!
 
 - Java
 - Python3
@@ -23,10 +23,9 @@ I know these languages very well!
 
 ### Other Languages:
 
-I know these fairly well but I either don't use them often, or I don't use them anymore! (I wouldn't ask me for help on these)
+I know these fairly well but I either don't use them often, don't know them that much, or I don't use them anymore! (I wouldn't ask me for help on these)
 
-- HTML5
-- CSS3
+- HTML5 & CSS3 (I know these are technically Markup languages, but whatever)
 - Javascript
 - XML
 - Swift
@@ -65,4 +64,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/22/21 at 9:25PM</sub>
+<sub>Last Edited On 02/23/21 at 10:36AM</sub>
