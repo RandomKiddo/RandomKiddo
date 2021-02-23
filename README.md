@@ -16,7 +16,7 @@ I know these languages very well!
 
 - Java
 - Python3
-- Fortran95
+- Fortran90 & Fortran95
 - C
 - C++
 - JSON
@@ -65,4 +65,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/22/21 at 9:21PM</sub>
+<sub>Last Edited On 02/22/21 at 9:25PM</sub>
