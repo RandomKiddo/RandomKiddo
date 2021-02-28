@@ -49,6 +49,7 @@ The stuff that lets me do stuff!
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
+[![File_Compressor](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=File_Compressor&theme=vue)](https://github.com/RandomKiddo/File_Compressor)
 
 ### Links:
 
@@ -63,4 +64,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/24/21 at 8:13PM</sub>
+<sub>Last Edited On 02/28/21 at 6:20PM</sub>
