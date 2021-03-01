@@ -36,11 +36,12 @@ I know these fairly well but I either don't use them often, don't know them that
 
 The stuff that lets me do stuff!
 
-- VSCode (Python, Fortran, C, C++) - [Link](https://code.visualstudio.com)
+- VSCode (Python, Fortran) - [Link](https://code.visualstudio.com)
 - BlueJ (Java) - [Link](https://bluej.org)
 - Eclipse (Advanced Java) - [Link](https://www.eclipse.org)
 - MacOS Terminal
 - Brackets (HTML, CSS, Javascript, Website Development) - [Link](http://brackets.io)
+- Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
 
 ### My Main Repositories:
 
@@ -64,4 +65,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 02/28/21 at 6:20PM</sub>
+<sub>Last Edited On 03/01/21 at 10:34AM</sub>
