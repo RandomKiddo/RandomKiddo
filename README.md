@@ -45,12 +45,10 @@ The stuff that lets me do stuff!
 
 ### My Main Repositories:
 
-[![influence](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=influence&theme=vue)](https://github.com/RandomKiddo/influence)
 [![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
-[![DiscordBot_Applications](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=DiscordBot_Applications&theme=vue)](https://github.com/RandomKiddo/DiscordBot_Applications)
 
 ### Links:
 
@@ -65,4 +63,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#)</b>
 
-<sub>Last Edited On 03/04/21 at 5:43PM</sub>
+<sub>Last Edited On 03/07/21 at 6:39PM</sub>
