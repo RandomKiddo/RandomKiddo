@@ -36,11 +36,12 @@ I know these fairly well but I either don't use them often, don't know them that
 
 The stuff that lets me do stuff!
 
-- VSCode (Python, Fortran) - [Link](https://code.visualstudio.com)
+- VSCode (Python, Fortran) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
 - BlueJ (Java) - [Link](https://bluej.org)
 - Eclipse (Advanced Java) - [Link](https://www.eclipse.org)
 - MacOS Terminal
-- Brackets (HTML, CSS, Javascript, Website Development) - [Link](http://brackets.io)
+- LightTable (Website Development) - [Link](http://lighttable.com) - [Github](https://github.com/LightTable/LightTable)
+- Brackets (Website Development) - [Link](http://brackets.io) - [Github](https://github.com/adobe/brackets) **:exclamation: Adobe Has Dropped Brackets Support**
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
 
 ### My Main Repositories:
@@ -61,6 +62,6 @@ The stuff that lets me do stuff!
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
 
-<b>[Back to Top](#)</b>
+<b>[Back to Top](#hi-there,-i'm-randomkiddo!)</b>
 
-<sub>Last Edited On 03/07/21 at 6:39PM</sub>
+<sub>Last Edited On 03/11/21 at 5:30PM</sub>
