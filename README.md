@@ -1,4 +1,4 @@
-# Hi there, I'm RandomKiddo!
+# Hello!
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=RandomKiddo.RandomKiddo)
 [![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
@@ -62,6 +62,6 @@ The stuff that lets me do stuff!
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
 
-<b>[Back to Top](#hi-there,-i'm-randomkiddo!)</b>
+<b>[Back to Top](#hello)</b>
 
 <sub>Last Edited On 03/11/21 at 5:30PM</sub>
