@@ -25,7 +25,8 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 
 I know these fairly well but I either don't use them often, don't know them that much, or I don't use them anymore! (I wouldn't ask me for help on these)
 
-- HTML5 & CSS3 (I know these are technically Markup languages, but whatever)
+- HTML5
+- CSS3
 - Javascript
 - XML
 - Swift
@@ -43,6 +44,7 @@ The stuff that lets me do stuff!
 - LightTable (Website Development) - [Link](http://lighttable.com) - [Github](https://github.com/LightTable/LightTable)
 - Brackets (Website Development) - [Link](http://brackets.io) - [Github](https://github.com/adobe/brackets) **:exclamation: Adobe Has Dropped Brackets Support**
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
+- Opera GX (Browser) - [Link](https://www.opera.com/gx)
 
 ### My Main Repositories:
 
