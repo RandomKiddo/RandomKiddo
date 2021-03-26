@@ -46,14 +46,14 @@ The stuff that lets me do stuff!
 - Brackets (Website Development) - [Link](http://brackets.io) - [Github](https://github.com/adobe/brackets) **:exclamation: Adobe Has Dropped Brackets Support**
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
 - Opera GX (Browser) - [Link](https://www.opera.com/gx)
-- RStudio (R) - [Link](https://www.rstudio.com)
+- RStudio (R) - [Link](https://www.rstudio.com) - [Github](https://github.com/rstudio/rstudio)
 
 ### My Main Repositories:
 
+[![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
 [![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
-[![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
 
 ### Links:
 
@@ -68,4 +68,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 03/25/21 at 10:00PM</sub>
+<sub>Last Edited On 03/25/21 at 10:03PM</sub>
