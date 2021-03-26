@@ -32,6 +32,7 @@ I know these fairly well but I either don't use them often, don't know them that
 - Swift
 - Go 
 - C#
+- R
 
 ### Tools:
 
@@ -45,6 +46,7 @@ The stuff that lets me do stuff!
 - Brackets (Website Development) - [Link](http://brackets.io) - [Github](https://github.com/adobe/brackets) **:exclamation: Adobe Has Dropped Brackets Support**
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
 - Opera GX (Browser) - [Link](https://www.opera.com/gx)
+- RStudio (R) - [Link](https://www.rstudio.com)
 
 ### My Main Repositories:
 
@@ -66,4 +68,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 03/11/21 at 5:30PM</sub>
+<sub>Last Edited On 03/25/21 at 10:00PM</sub>
