@@ -21,32 +21,16 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 - C++
 - JSON
 
-### Other Languages:
-
-I know these fairly well but I either don't use them often, don't know them that much, or I don't use them anymore! (I wouldn't ask me for help on these)
-
-- HTML5
-- CSS3
-- Javascript
-- XML
-- Swift
-- Go 
-- C#
-- R
-
 ### Tools:
 
 The stuff that lets me do stuff!
 
-- VSCode (Python, Fortran) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
+- VSCode (Python, Fortran, Website Development, Gradle & Maven Java) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
 - BlueJ (Java) - [Link](https://bluej.org)
-- Eclipse (Advanced Java) - [Link](https://www.eclipse.org)
+- Eclipse (Maven Java, Minecraft Development) - [Link](https://www.eclipse.org)
 - MacOS Terminal
-- LightTable (Website Development) - [Link](http://lighttable.com) - [Github](https://github.com/LightTable/LightTable)
-- Brackets (Website Development) - [Link](http://brackets.io) - [Github](https://github.com/adobe/brackets) **:exclamation: Adobe Has Dropped Brackets Support**
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
 - Opera GX (Browser) - [Link](https://www.opera.com/gx)
-- RStudio (R) - [Link](https://www.rstudio.com) - [Github](https://github.com/rstudio/rstudio)
 
 ### My Main Repositories:
 
@@ -68,4 +52,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 03/25/21 at 10:03PM</sub>
+<sub>Last Edited On 04.24.2021</sub>
