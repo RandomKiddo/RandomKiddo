@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
 [![Twitch](https://img.shields.io/twitch/status/notfirsttry?style=social)](https://twitch.tv/notfirsttry)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqORid7DP0chFER0SkjCb1A?style=social)](https://youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
 
 ### About Me (Not Programming Related):
 
@@ -52,4 +53,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 04.24.2021</sub>
+<sub>Last Edited On 04.25.2021</sub>
