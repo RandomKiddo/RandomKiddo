@@ -27,8 +27,8 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 The stuff that lets me do stuff!
 
 - VSCode (Python, Fortran, Website Development, Gradle & Maven Java) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
-- BlueJ (Java) - [Link](https://bluej.org)
-- Eclipse (Maven Java, Minecraft Development) - [Link](https://www.eclipse.org)
+- BlueJ (Java, JavaFX) - [Link](https://bluej.org)
+- IntelliJ IDEA CE (Advanced Java, Minecraft Development in Spigot & Fabric) - [Link](https://www.jetbrains.com/idea/download/)
 - MacOS Terminal
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
 - Opera GX (Browser) - [Link](https://www.opera.com/gx)
@@ -53,4 +53,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 04.25.2021</sub>
+<sub>Last Edited On 07.02.2021</sub>
