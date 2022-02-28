@@ -39,6 +39,7 @@ The stuff that lets me do stuff!
 [![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
 [![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
+[![ComputationalPhysics](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=ComputationalPhysics&theme=vue)](https://github.com/RandomKiddo/ComputationalPhysics)
 
 ### Links:
 
@@ -49,8 +50,8 @@ The stuff that lets me do stuff!
 
 ### Stats: 
 
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV -->
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 07.02.2021</sub>
+<sub>Last Edited On 02.28.2022</sub>
