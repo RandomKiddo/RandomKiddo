@@ -1,8 +1,6 @@
 # Hello!
 
 [![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
-[![Twitch](https://img.shields.io/twitch/status/notfirsttry?style=social)](https://twitch.tv/notfirsttry)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCqORid7DP0chFER0SkjCb1A?style=social)](https://youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
 
 ### About Me (Not Programming Related):
 
@@ -15,43 +13,42 @@
 
 I know these languages very well! I'm either fluent or mostly fluent in these! I mainly do projects in these languages!
 
-- Java
-- Python3
+- Java (including Maven and Gradle) 
+- Python3 (including JupyterNotebooks, Conda, and VEnv)
 - Fortran90 & Fortran95
-- C
-- C++
-- JSON
+- C / C++
+- JSON / XML
+- MySQL
+
+### Other Languages:
+
+These are languages I know basic knowledge about but I don't do many projects with these
+
+- JavaScript / TypeScript / JQuery
+- HTML & CSS
 
 ### Tools:
 
 The stuff that lets me do stuff!
 
-- VSCode (Python, Fortran, Website Development, Gradle & Maven Java) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
-- BlueJ (Java, JavaFX) - [Link](https://bluej.org)
-- IntelliJ IDEA CE (Advanced Java, Minecraft Development in Spigot & Fabric) - [Link](https://www.jetbrains.com/idea/download/)
-- MacOS Terminal
+- VSCode (Fortran, JupyterNotebooks, MySQL) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
+- IntelliJ IDEA CE (Advanced Java, Minecraft Development in Spigot & Fabric, Maven, Gradle) - [Link](https://www.jetbrains.com/idea/download/)
+- MacOS Terminal / Windows Command Prompt
 - Sublime Text (C, C++) - [Link](https://www.sublimetext.com)
-- Opera GX (Browser) - [Link](https://www.opera.com/gx)
+- PyCharm CE (Advanced Python, VEnv, Conda) - [Link](https://www.jetbrains.com/pycharm/download/)
+- Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
 
-### My Main Repositories:
+### My Favorite Repositories:
 
 [![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
-[![java](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=java&theme=vue)](https://github.com/RandomKiddo/java)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
-[![RandomKiddo.github.io](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=RandomKiddo.github.io&theme=vue)](https://github.com/RandomKiddo/RandomKiddo.github.io)
 [![ComputationalPhysics](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=ComputationalPhysics&theme=vue)](https://github.com/RandomKiddo/ComputationalPhysics)
-
-### Links:
-
-- [YouTube](https://www.youtube.com/channel/UCqORid7DP0chFER0SkjCb1A)
-- [YouTube Archive](https://www.youtube.com/channel/UCvErjJxLRFq4t9d4iydRLVQ)
-- [Twitch](https://www.twitch.tv/notfirsttry)
-- [Discord](https://discord.com/invite/Hg6aaqkzBy)
 
 ### Stats: 
 
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV -->
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 02.28.2022</sub>
+<sub>Last Edited On 08.02.2022</sub>
