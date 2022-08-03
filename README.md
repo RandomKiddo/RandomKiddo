@@ -43,7 +43,6 @@ The stuff that lets me do stuff!
 
 [![image-modifier](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=image-modifier&theme=vue)](https://github.com/RandomKiddo/image-modifier)
 [![youtubeplugins](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=youtubeplugins&theme=vue)](https://github.com/RandomKiddo/youtubeplugins)
-[![ComputationalPhysics](https://github-readme-stats.vercel.app/api/pin/?username=RandomKiddo&repo=ComputationalPhysics&theme=vue)](https://github.com/RandomKiddo/ComputationalPhysics)
 
 ### Stats: 
 
