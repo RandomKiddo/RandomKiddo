@@ -8,6 +8,7 @@
 - Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography, YouTube, Twitch
 - Activities: Tennis, Guitar, Bass Guitar, Jazz Band
 - Favorite Subjects: Math, Science, Programming, Physics, Astrophysics
+- Honors Physics Major at The Ohio State University dual minoring in Honors Math and German
 
 ### Main Languages:
 
@@ -47,6 +48,8 @@ The stuff that lets me do stuff!
 ### Stats: 
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=RandomKiddo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=vue" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426&text_color=000&icon_color=ffftheme=vue" />
+
+<sub>When one Jupyter Notebook repo contributes to 68% of your language use XD</sub>
 
 <b>[Back to Top](#hello)</b>
 
