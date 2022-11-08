@@ -1,6 +1,6 @@
 # Hello!
 
-![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
+[![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
 
 ### About Me (Not Programming Related):
 
