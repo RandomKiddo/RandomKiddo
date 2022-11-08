@@ -1,13 +1,13 @@
 # Hello!
 
-[![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
+[![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)]
 
 ### About Me (Not Programming Related):
 
 - Pronouns: he/him
 - Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography, YouTube, Twitch
-- Activities: Tennis, Guitar, Bass Guitar, Jazz Band
-- Favorite Subjects: Math, Science, Programming, Physics, Astrophysics
+- Activities: Tennis, Guitar, Bass Guitar, Jazz Band, AI Club, SPS Society of Physics Students
+- Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German
 - Honors Physics Major at The Ohio State University dual minoring in Honors Math and German
 
 ### Main Languages:
