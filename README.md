@@ -40,6 +40,7 @@ The stuff that lets me do stuff!
 - Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomKiddo&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandomKiddo&layout=compact&theme-midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>[Back to Top](#hello)</b>
 
