@@ -16,10 +16,11 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 
 - Java (including Maven, Gradle, and Minecraft Development in Fabric & Spigot) 
 - Python3 (including JupyterNotebooks, Conda, and Venv)
-- Fortran90 & Fortran95
 - C / C++
 - JSON / XML
 - MySQL
+- MATLAB
+- Mathematica (Learning)
 
 ### Other Languages:
 
@@ -28,6 +29,7 @@ These are languages I know basic knowledge about but I don't do many projects wi
 - JavaScript / TypeScript / JQuery
 - HTML & CSS
 - C#
+- Fortran90 & Fortran95
 
 ### Tools:
 
@@ -43,4 +45,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 02.23.2023</sub>
+<sub>Last Edited On 04.21.2023</sub>
