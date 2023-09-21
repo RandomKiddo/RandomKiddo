@@ -5,7 +5,7 @@
 ### About Me (Not Programming Related):
 
 - Pronouns: he/him
-- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and BTD), Photography, YouTube, Twitch
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, YouTube, Twitch
 - Activities: Tennis, Guitar, Bass Guitar, Jazz Band, AI Club, SPS Society of Physics Students
 - Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German
 - Honors Physics Major at The Ohio State University dual minoring in Honors Math and German
@@ -16,11 +16,10 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 
 - Java (including Maven, Gradle, and Minecraft Development in Fabric & Spigot) 
 - Python3 (including JupyterNotebooks, Conda, and Venv)
-- C / C++
+- C++
 - JSON / XML
-- MySQL
 - MATLAB
-- Mathematica (Learning)
+- Mathematica
 
 ### Other Languages:
 
@@ -28,8 +27,9 @@ These are languages I know basic knowledge about but I don't do many projects wi
 
 - JavaScript / TypeScript / JQuery
 - HTML & CSS
-- C#
+- C# / C
 - Fortran90 & Fortran95
+- MySQL
 
 ### Tools:
 
@@ -40,9 +40,10 @@ The stuff that lets me do stuff!
 - MacOS Terminal / Windows Command Prompt
 - PyCharm CE (Advanced Python, VEnv, Conda) - [Link](https://www.jetbrains.com/pycharm/download/)
 - Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
+- LaTeX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomKiddo&show_icons=true&theme=midnight-purple)
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 04.21.2023</sub>
+<sub>Last Edited On 09.20.2023</sub>
