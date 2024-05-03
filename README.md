@@ -5,7 +5,7 @@
 ### About Me (Not Programming Related):
 
 - Pronouns: he/him
-- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, YouTube, Twitch
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, YouTube, Reading, Chess, and more!
 - Activities: Tennis, Guitar, Bass Guitar, Jazz Band, AI Club, SPS Society of Physics Students
 - Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German
 - Honors Physics Major at The Ohio State University dual minoring in Honors Math and German
@@ -15,7 +15,7 @@
 I know these languages very well! I'm either fluent or mostly fluent in these! I mainly do projects in these languages!
 
 - Java (including Maven, Gradle, and Minecraft Development in Fabric & Spigot) 
-- Python3 (including JupyterNotebooks, Conda, and Venv)
+- Python3 (including JupyterNotebooks, Conda, Venv, Tensorflow, and FastAPI)
 - C++
 - JSON / XML
 - MATLAB
@@ -35,10 +35,10 @@ These are languages I know basic knowledge about but I don't do many projects wi
 
 The stuff that lets me do stuff!
 
-- VSCode (Fortran, JupyterNotebooks, MySQL, C, C++) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
-- IntelliJ IDEA CE (Advanced Java, Minecraft Development in Spigot & Fabric, Maven, Gradle) - [Link](https://www.jetbrains.com/idea/download/)
+- VSCode (Fortran, MySQL, C, C++) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
+- IntelliJ IDEA (Advanced Java, Minecraft Development in Spigot & Fabric, Maven, Gradle) - [Link](https://www.jetbrains.com/idea/download/)
 - MacOS Terminal / Windows Command Prompt
-- PyCharm CE (Advanced Python, VEnv, Conda) - [Link](https://www.jetbrains.com/pycharm/download/)
+- PyCharm (Advanced Python, VEnv, Conda, Jupyter Notebooks, and FastAPI) - [Link](https://www.jetbrains.com/pycharm/download/)
 - Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
 - LaTeX
 
@@ -46,4 +46,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 09.20.2023</sub>
+<sub>Last Edited On 05.02.2024</sub>
