@@ -5,10 +5,10 @@
 ### About Me (Not Programming Related):
 
 - Pronouns: he/him
-- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, YouTube, Reading, Chess, and more!
-- Activities: Tennis, Guitar, Bass Guitar, Jazz Band, AI Club, SPS Society of Physics Students
-- Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German
-- Honors Physics Major at The Ohio State University dual minoring in Honors Math and German
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, Astrophotography, Reading, Chess, and more!
+- Activities: Tennis, Guitar, Bass Guitar, Volleyball, Jazz Band, AI Club, SPS Society of Physics Students, Astro Society, CETA, and more!
+- Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German.
+- Honors Physics Major at The Ohio State University dual minoring in Honors Math and German.
 
 ### Main Languages:
 
@@ -17,16 +17,15 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 - Java (including Maven, Gradle, and Minecraft Development in Fabric & Spigot) 
 - Python3 (including JupyterNotebooks, Conda, Venv, Tensorflow, and FastAPI)
 - C++
-- JSON / XML
 - MATLAB
-- Mathematica
+- Mathematica (including Wolfram Language)
 
 ### Other Languages:
 
 These are languages I know basic knowledge about but I don't do many projects with these
 
-- JavaScript / TypeScript / JQuery
-- HTML & CSS
+- JavaScript / TypeScript / JQuery / JSON
+- HTML & CSS / XML
 - C# / C
 - Fortran90 & Fortran95
 - MySQL
@@ -46,4 +45,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 05.02.2024</sub>
+<sub>Last Edited On 09.20.2024</sub>
