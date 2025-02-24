@@ -8,7 +8,7 @@
 - Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, Astrophotography, Reading, Chess, and more!
 - Activities: Tennis, Guitar, Bass Guitar, Volleyball, Jazz Band, AI Club, SPS Society of Physics Students, Astro Society, CETA, and more!
 - Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German.
-- Honors Physics Major at The Ohio State University dual minoring in Honors Math and German.
+- Honors Physics Major and Astronomy and Astrophyiscs Major at The Ohio State University dual minoring in Honors Math and German.
 
 ### Main Languages:
 
@@ -45,4 +45,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 09.20.2024</sub>
+<sub>Last Edited On 02.24.2025</sub>
