@@ -34,10 +34,9 @@ These are languages I know basic knowledge about but I don't do many projects wi
 
 The stuff that lets me do stuff!
 
-- VSCode (Fortran, MySQL, C, C++) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
+- VSCode (C, C++, Python, Fortran, Java, JavaScript, etc.) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
 - IntelliJ IDEA (Advanced Java, Minecraft Development in Spigot & Fabric, Maven, Gradle) - [Link](https://www.jetbrains.com/idea/download/)
-- MacOS Terminal / Windows Command Prompt
-- PyCharm (Advanced Python, VEnv, Conda, Jupyter Notebooks, and FastAPI) - [Link](https://www.jetbrains.com/pycharm/download/)
+- MacOS Terminal / Windows Command Prompt / Warp Shell
 - Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
 - LaTeX
 
@@ -45,4 +44,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 02.24.2025</sub>
+<sub>Last Edited On 04.21.2025</sub>
