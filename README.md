@@ -5,18 +5,18 @@
 ### About Me (Not Programming Related):
 
 - Pronouns: he/him
-- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, and GTFO), Photography, Astrophotography, Reading, Chess, and more!
-- Activities: Tennis, Guitar, Bass Guitar, Volleyball, Jazz Band, AI Club, SPS Society of Physics Students, Astro Society, CETA, and more!
-- Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German.
-- Honors Physics Major and Astronomy and Astrophyiscs Major at The Ohio State University dual minoring in Honors Math and German.
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, Hollow Knight, and GTFO), Photography, Astrophotography, Reading, Chess, Speed-solving Rubiks Cubes and more!
+- Activities: Tennis, Guitar (Acoustic and Electric), Bass Guitar, Volleyball, Jazz Band, AI Club, SPS Society of Physics Students, Astro Society, CETA, and more!
+- Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German, Linguistics, and History.
+- Honors Double Major B.S. in Physics and Astronomy & Astrophysics at The Ohio State University dual minoring in German and Honors Math.
 
 ### Main Languages:
 
 I know these languages very well! I'm either fluent or mostly fluent in these! I mainly do projects in these languages!
 
-- Java (including Maven, Gradle, and Minecraft Development in Fabric & Spigot) 
-- Python3 (including JupyterNotebooks, Conda, Venv, Tensorflow, and FastAPI)
+- Python3 (including Jupyter Notebooks, Conda, Venv, TensorFlow, Scikit-Learn, and FastAPI)
 - C++
+- Java (including Maven, Gradle, and Minecraft Development in Fabric, Spigot, and Bukkit) 
 - MATLAB
 - Mathematica (including Wolfram Language)
 
@@ -24,10 +24,10 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 
 These are languages I know basic knowledge about but I don't do many projects with these
 
-- JavaScript / TypeScript / JQuery / JSON
-- HTML & CSS / XML
+- JavaScript / TypeScript / JQuery / JSON / React / Node / Next.js
+- HTML / CSS / XML / TailwindCSS
 - C# / C
-- Fortran90 & Fortran95
+- Fortran90 / Fortran95
 - MySQL
 
 ### Tools:
@@ -48,4 +48,4 @@ The stuff that lets me do stuff!
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 12.10.2025</sub>
+<sub>Last Edited On 12.19.2025</sub>
