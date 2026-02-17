@@ -48,7 +48,7 @@ These are tools I use to do my simulations and research. They are ordered based 
 - PLUTO (A modular code for astrophysical and relativistic gas dynamics) - [Link](https://plutocode.ph.unito.it/)
 - AthenaK (A portable version of Athena++ with Kokkos for usage on GPUs) - [Link](https://github.com/IAS-Astrophysics/athenak)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RandomKiddo&show_icons=true&theme=github_dark_dimmed)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RandomKiddo&show_icons=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
 <b>[Back to Top](#hello)</b>
 
