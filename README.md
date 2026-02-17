@@ -44,7 +44,7 @@ The stuff that lets me do stuff!
 
 - [Athena++](https://github.com/PrincetonUniversity/athena) (A GR-MHD code used to run dynamical simulations of astrophysical systems using magnetohydrodynamics)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RandomKiddo)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RandomKiddo&show_icons=true&theme=github_dark_dimmed)](https://github.com/stats-organization/github-stats-extended)
 
 <b>[Back to Top](#hello)</b>
 
