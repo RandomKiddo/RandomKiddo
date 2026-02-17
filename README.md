@@ -36,13 +36,17 @@ The stuff that lets me do stuff!
 
 - VSCode (C, C++, Python, Fortran, Java, JavaScript, etc.) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
 - IntelliJ IDEA (Advanced Java, Minecraft Development in Spigot & Fabric, Maven, Gradle) - [Link](https://www.jetbrains.com/idea/download/)
-- MacOS Terminal / Windows Command Prompt / Warp Shell
+- Warp Shell - [Link](https://www.warp.dev/) - [Github](https://github.com/warpdotdev/Warp)
 - Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
 - LaTeX
 
 ### Tools of the Trade:
 
-- [Athena++](https://github.com/PrincetonUniversity/athena) (A GR-MHD code used to run dynamical simulations of astrophysical systems using magnetohydrodynamics)
+These are tools I use to do my simulations and research. They are ordered based on my comfort level in them and my general knowledge of them. This ranges from being able to write or make changes to problem files, or simply running test cases.
+
+- Athena++ (A GR-MHD code used to run dynamical simulations of astrophysical systems using magnetohydrodynamics) - [Link](https://github.com/PrincetonUniversity/athena)
+- PLUTO (A modular code for astrophysical and relativistic gas dynamics) - [Link](https://plutocode.ph.unito.it/)
+- AthenaK (A portable version of Athena++ with Kokkos for usage on GPUs) - [Link](https://github.com/IAS-Astrophysics/athenak)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RandomKiddo&show_icons=true&theme=github_dark_dimmed)](https://github.com/stats-organization/github-stats-extended)
 
