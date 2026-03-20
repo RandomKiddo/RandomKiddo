@@ -14,7 +14,7 @@
 
 I know these languages very well! I'm either fluent or mostly fluent in these! I mainly do projects in these languages!
 
-- Python3 (including Jupyter Notebooks, Conda, Venv, TensorFlow, Scikit-Learn, and FastAPI)
+- Python3 (including Jupyter Notebooks, Conda, Venv, TensorFlow, Scikit-Learn, FastAPI, and Manim)
 - C++
 - Java (including Maven, Gradle, and Minecraft Development in Fabric, Spigot, and Bukkit) 
 - MATLAB
@@ -52,4 +52,4 @@ These are tools I use to do my simulations and research. They are ordered based 
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 02.16.2026</sub>
+<sub>Last Edited On 03.19.2026</sub>
