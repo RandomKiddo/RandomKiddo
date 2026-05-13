@@ -1,14 +1,20 @@
 # Hello!
 
 [![Github](https://img.shields.io/github/followers/RandomKiddo?label=Follow&style=social)](https://github.com/RandomKiddo)
+[![Static Badge](https://img.shields.io/badge/Website-Click_Here-blue?logo=theplanetarysociety&logoColor=white&labelColor=black)](https://neilghugare.com/)
 
 ### About Me (Not Programming Related):
 
+B.S. in Physics and Astronomy & Astrophysics, The Ohio State University. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with minors in German and Mathematics, with Latin Honors, with Honors distinction.
+
+Incoming Astronomy PhD student, University of Florida.
+
+Other things about me:
 - Pronouns: he/him
 - Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, Hollow Knight, and GTFO), Photography, Astrophotography, Reading, Chess, Speed-solving Rubiks Cubes and more!
 - Activities: Tennis, Guitar (Acoustic and Electric), Bass Guitar, Volleyball, Jazz Band, AI Club, SPS Society of Physics Students, Astro Society, CETA, and more!
 - Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German, Linguistics, and History.
-- Honors Double Major B.S. in Physics and Astronomy & Astrophysics at The Ohio State University dual minoring in German and Honors Math.
 
 ### Main Languages:
 
@@ -52,4 +58,4 @@ These are tools I use to do my simulations and research. They are ordered based 
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 03.19.2026</sub>
+<sub>Last Edited On 05.12.2026</sub>
