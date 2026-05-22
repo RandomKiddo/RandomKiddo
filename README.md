@@ -50,12 +50,12 @@ The stuff that lets me do stuff!
 
 These are tools I use to do my simulations and research. They are ordered based on my comfort level in them and my general knowledge of them. This ranges from being able to write or make changes to problem files, or simply running test cases.
 
-- Athena++ (A GR-MHD code used to run dynamical simulations of astrophysical systems using magnetohydrodynamics) - [Link](https://github.com/PrincetonUniversity/athena)
-- PLUTO (A modular code for astrophysical and relativistic gas dynamics) - [Link](https://plutocode.ph.unito.it/)
-- AthenaK (A portable version of Athena++ with Kokkos for usage on GPUs) - [Link](https://github.com/IAS-Astrophysics/athenak)
+- `Athena++` (A GR-MHD code used to run dynamical simulations of astrophysical systems using magnetohydrodynamics) - [Link](https://github.com/PrincetonUniversity/athena)
+- `PLUTO` (A modular code for astrophysical and relativistic gas dynamics) - [Link](https://plutocode.ph.unito.it/)
+- `AthenaK` (A portable version of Athena++ with Kokkos for usage on GPUs) - [Link](https://github.com/IAS-Astrophysics/athenak)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RandomKiddo&show_icons=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 05.12.2026</sub>
+<sub>Last Edited On 05.22.2026</sub>
