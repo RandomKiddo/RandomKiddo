@@ -5,14 +5,14 @@
 
 ### About Me (Not Programming Related):
 
+Astronomy PhD student, University of Florida.
+
 B.S. in Physics and Astronomy & Astrophysics, The Ohio State University. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with minors in German and Mathematics, with Latin Honors, with Honors distinction.
 
-Incoming Astronomy PhD student, University of Florida.
-
 Other things about me:
 - Pronouns: he/him
-- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, Rocket League, any Mario game, Hollow Knight, and GTFO), Photography, Astrophotography, Reading, Chess, Speed-solving Rubiks Cubes and more!
+- Hobbies: Video Games (i.e. Minecraft, Stardew Valley, any Mario game, Hollow Knight/Silksong, and GTFO), Photography, Astrophotography, Reading, Chess, Speed-solving Rubiks Cubes and more!
 - Activities: Tennis, Guitar (Acoustic and Electric), Bass Guitar, Volleyball, Jazz Band, AI Club, SPS Society of Physics Students, Astro Society, CETA, and more!
 - Favorite Subjects: Math, Science, Programming, Physics, Astrophysics, German, Linguistics, and History.
 
@@ -23,18 +23,18 @@ I know these languages very well! I'm either fluent or mostly fluent in these! I
 - Python3 (including Jupyter Notebooks, Conda, Venv, TensorFlow, Scikit-Learn, FastAPI, and Manim)
 - C++
 - Java (including Maven, Gradle, and Minecraft Development in Fabric, Spigot, and Bukkit) 
-- MATLAB
 - Mathematica (including Wolfram Language)
+- HTML / CSS / XML / TailwindCSS
 
 ### Other Languages:
 
-These are languages I know basic knowledge about but I don't do many projects with these
+These are languages I know basic knowledge about but I don't do many projects with these, or at least don't use them that often.
 
 - JavaScript / TypeScript / JQuery / JSON / React / Node / Next.js
-- HTML / CSS / XML / TailwindCSS
 - C# / C
 - Fortran90 / Fortran95
-- MySQL
+- MySQL / SQL
+- MATLAB
 
 ### Tools:
 
@@ -43,7 +43,6 @@ The stuff that lets me do stuff!
 - VSCode (C, C++, Python, Fortran, Java, JavaScript, etc.) - [Link](https://code.visualstudio.com) - [Github](https://github.com/Microsoft/vscode)
 - IntelliJ IDEA (Advanced Java, Minecraft Development in Spigot & Fabric, Maven, Gradle) - [Link](https://www.jetbrains.com/idea/download/)
 - Warp Shell - [Link](https://www.warp.dev/) - [Github](https://github.com/warpdotdev/Warp)
-- Sublime Merge (Git Version Control) - [Link](https://www.sublimemerge.com)
 - LaTeX
 
 ### Tools of the Trade:
@@ -58,4 +57,4 @@ These are tools I use to do my simulations and research. They are ordered based 
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 05.22.2026</sub>
+<sub>Last Edited On 09.09.2026</sub>
