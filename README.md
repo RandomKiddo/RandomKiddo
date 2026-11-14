@@ -47,8 +47,12 @@ The stuff that lets me do stuff!
 
 ### Tools of the Trade:
 
-These are tools I use to do my simulations and research. They are ordered based on my comfort level in them and my general knowledge of them. This ranges from being able to write or make changes to problem files, or simply running test cases.
+These are tools I use to do my simulations and research. They are ordered based on my comfort level in them and my general knowledge of them, and are separated into two categories (actively using/used in the past). This ranges from being able to write or make changes to problem files, or simply running test cases.
 
+Actively Using:
+- `Prospector` (A code that allows for inference of stellar population properties from flexible model data) - [Link](https://github.com/bd-j/prospector)
+
+Used in the Past:
 - `Athena++` (A GR-MHD code used to run dynamical simulations of astrophysical systems using magnetohydrodynamics) - [Link](https://github.com/PrincetonUniversity/athena)
 - `PLUTO` (A modular code for astrophysical and relativistic gas dynamics) - [Link](https://plutocode.ph.unito.it/)
 - `AthenaK` (A portable version of Athena++ with Kokkos for usage on GPUs) - [Link](https://github.com/IAS-Astrophysics/athenak)
@@ -57,4 +61,4 @@ These are tools I use to do my simulations and research. They are ordered based 
 
 <b>[Back to Top](#hello)</b>
 
-<sub>Last Edited On 09.09.2026</sub>
+<sub>Last Edited On 11.14.2026</sub>
